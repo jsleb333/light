@@ -1,0 +1,15 @@
+Set maximum backlight
+light -S 100
+ctrl alt super space
+
+Increase backlight by .5
+light -A 0.5
+alt super up
+
+Decrease backlight by .5
+light -U 0.5
+alt super down
+
+Set maximum backlight
+light -S 100
+ctrl alt super space
